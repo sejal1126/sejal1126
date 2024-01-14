@@ -1,4 +1,8 @@
 
+<div align="center">
+    <img src="https://github.com/sejal1126/sejal1126/blob/main/Welcometomygithub-ezgif.com-video-to-gif-converter.gif" alt="Your Alt Text" width="1000" height="500">
+</div>
+
 <h1 align="center">Hi 👋, I'm Sejal Rathore</h1>
 <h3 align="center">Coding Chronicles: Crafting Digital Realities with Lines of Logic</h3>
 
