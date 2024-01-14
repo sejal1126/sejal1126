@@ -1,6 +1,7 @@
-https://github.com/sejal1126/sejal1126.github.io/assets/61845736/671c2dd9-4f28-46c9-bd51-f4311e09f516
+
 <h1 align="center">Hi 👋, I'm Sejal Rathore</h1>
 <h3 align="center">Coding Chronicles: Crafting Digital Realities with Lines of Logic</h3>
+
 
 
 
