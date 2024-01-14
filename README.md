@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github.com/sejal1126/sejal1126/blob/main/Welcometomygithub-ezgif.com-video-to-gif-converter.gif" alt="Your Alt Text" width="1000" height="500">
+    <img src="https://github.com/sejal1126/sejal1126/blob/main/Welcometomygithub-ezgif.com-video-to-gif-converter%20(1).gif" alt="Your Alt Text" width="1000" height="500">
 </div>
 
 <h1 align="center">Hi 👋, I'm Sejal Rathore</h1>
